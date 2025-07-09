@@ -17,7 +17,7 @@ A Python CLI tool to fetch PubMed research papers and filter authors affiliated 
 - Poetry
 
 ## Installation
-```bash
+
 git clone https://github.com/junaid876/get-papers-tool
 cd get-papers-tool
 poetry install
